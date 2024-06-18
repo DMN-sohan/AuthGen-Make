@@ -1,0 +1,8 @@
+bchlib==1.0.0
+Flask==2.2.5
+Flask_Cors==4.0.0
+numpy==1.21.6
+opencv_python==4.8.0.76
+Pillow==9.5.0
+Pillow==10.1.0
+tensorflow==1.13.2
