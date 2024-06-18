@@ -10,7 +10,7 @@ from tensorflow.python.saved_model import tag_constants
 from tensorflow.python.saved_model import signature_constants
 from io import BytesIO
 import uvicorn
-
+import os
 app = FastAPI()
 
 app.add_middleware(
